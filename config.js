@@ -1,0 +1,1 @@
+window.TATEMA_FORM={key:'63543517-a399-4812-b888-b1de0e58aa74'};
